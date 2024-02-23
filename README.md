@@ -7,9 +7,9 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 
 | Title | Description |
 | ----- | ----------- |
-| [Example](https://github.com/fiboa/example) | This is an example extension |
+| [Inspire](https://github.com/fiboa/inspire) | Extension to define INSPIRE-compliant fields |
 
-* **Last updated:** Feb 23 2024, 18:31 
+* **Last updated:** Feb 23 2024, 21:03 
 * **Count:** 1
 
 ## Adding a new extension
@@ -54,7 +54,7 @@ Here's a guideline how to use the extension template:
 * `examples/` folder:
   * Add at least one GeoJSON example
   * Add a GeoParquet example. You can generate it from GeoJSON with the [fiboa CLI](https://github.com/fiboa/cli).
-* Go through the files and update everything that is still named 'template'.
+* Go through the files and update everything that is still named 'template' (or 'extension-template').
   The easiest way is to let an IDE/Editor search through all the files for 'template'.
 * Run the tests
 * `CHANGELOG.md`: Update the Changelog
