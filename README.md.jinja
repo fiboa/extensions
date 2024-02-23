@@ -5,7 +5,14 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 
 ## List of extensions
 
-...
+| Title | Description |
+| ----- | ----------- |
+{%- for e in extensions %}
+| [{{e.title}}]({{e.url}}) | {{e.description}} |
+{%- endfor %}
+
+* **Last updated:** {{updated}}
+* **Count:** {{count}}
 
 ## Adding a new extension
 
