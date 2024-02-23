@@ -5,7 +5,12 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 
 ## List of extensions
 
-...
+| Title | Description |
+| ----- | ----------- |
+| [Example](https://github.com/fiboa/example) | This is an example extension |
+
+* **Last updated:** Feb 23 2024, 18:31 
+* **Count:** 1
 
 ## Adding a new extension
 
