@@ -9,7 +9,7 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 | ----- | ----------- |
 | [Inspire](https://github.com/fiboa/inspire) | Extension to define INSPIRE-compliant fields |
 
-* **Last updated:** Feb 27 2024, 00:54 
+* **Last updated:** Feb 27 2024, 22:50 
 * **Count:** 1
 
 ## Adding a new extension
@@ -27,6 +27,7 @@ Here's a guideline how to use the extension template:
 3. Don't change the 'Repository template'
 4. Tick the checkbox 'Include all branches'
 5. Pick the right place ('Owner' and 'Repository name') to create it.
+   The name should have a `-extension` suffix.
    You can request to become a member of the fiboa organization or
    put the next repository under your personal account or any other organization.
 6. Add a concise and clear description of the extension, it will be used as a description in the list above!
