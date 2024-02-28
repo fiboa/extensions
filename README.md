@@ -7,9 +7,9 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 
 | Title | Description |
 | ----- | ----------- |
-| [Inspire](https://github.com/fiboa/inspire) | Extension to define INSPIRE-compliant fields |
+| [Inspire Extension](https://github.com/fiboa/inspire-extension) | Extension to define INSPIRE-compliant fields |
 
-* **Last updated:** Feb 27 2024, 22:50 
+* **Last updated:** Feb 28 2024, 00:54 
 * **Count:** 1
 
 ## Adding a new extension
