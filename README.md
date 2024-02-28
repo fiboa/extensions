@@ -8,9 +8,10 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 | Title | Description |
 | ----- | ----------- |
 | [Inspire Extension](https://github.com/fiboa/inspire-extension) | Extension to define INSPIRE-compliant fields |
+| [Tillage Extension](https://github.com/fiboa/tillage-extension) | Fiboa extension to describe tillage on a field |
 
-* **Last updated:** Feb 28 2024, 00:54 
-* **Count:** 1
+* **Last updated:** Feb 28 2024, 18:54 
+* **Count:** 2
 
 ## Adding a new extension
 
@@ -59,7 +60,7 @@ Here's a guideline how to use the extension template:
   The easiest way is to let an IDE/Editor search through all the files for 'template'.
 * Run the tests
 * `CHANGELOG.md`: Update the Changelog
-* Let people discuss your extension, e.g. via chat, email, ...
+* Let people discuss your extension, e.g. via chat, email, etc.
 * Eventually, release the extension via GitHub Releases.
   This will automatically publish the schemas.
 * Add your extension to the list above if needed.
