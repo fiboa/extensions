@@ -7,11 +7,11 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 
 | Title | Description |
 | ----- | ----------- |
-| [Ai Ecosystem](https://github.com/hannah-rae/ai-ecosystem) | Extension for properties needed for fiboa to interface with AI ecosystem |
+| [Ai Ecosystem](https://github.com/fiboa/ai-ecosystem) | Extension for properties needed for fiboa to interface with AI ecosystem |
 | [Inspire Extension](https://github.com/fiboa/inspire-extension) | Extension to define INSPIRE-compliant fields |
 | [Tillage Extension](https://github.com/fiboa/tillage-extension) | Fiboa extension to describe tillage on a field |
 
-* **Last updated:** Mar 08 2024, 00:55 
+* **Last updated:** Mar 08 2024, 11:24 
 * **Count:** 3
 
 ## Adding a new extension
