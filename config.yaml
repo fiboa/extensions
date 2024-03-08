@@ -1,8 +1,6 @@
-github: 
+github: []
 #  - org: example
 #    repo: example
-  - org: hannah-rae
-    repo: ai-ecosystem
 external: []
 #  - title: Example
 #    url: https://example.com
