@@ -11,7 +11,7 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 | [Inspire Extension](https://github.com/fiboa/inspire-extension) | Extension to define INSPIRE-compliant fields |
 | [Tillage Extension](https://github.com/fiboa/tillage-extension) | Fiboa extension to describe tillage on a field |
 
-* **Last updated:** Mar 15 2024, 00:56 
+* **Last updated:** Mar 15 2024, 23:00 
 * **Count:** 3
 
 ## Adding a new extension
@@ -66,4 +66,4 @@ Here's a guideline how to use the extension template:
   This will automatically publish the schemas.
 * Add your extension to the list above if needed.
   All extensions hosted in the fiboa organization will be added automatically each night.
-  You can add external/community extensions to the list above by editing the [config file](https://github.com/fiboa/fiboa/edit/main/python/config.py) and creating a PR from it.
+  You can add external/community extensions to the list above by editing the [config file](https://github.com/fiboa/extensions/edit/main/config.yaml) and creating a PR from it.
