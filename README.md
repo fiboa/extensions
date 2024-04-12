@@ -8,11 +8,12 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 | Title | Description |
 | ----- | ----------- |
 | [Ai Ecosystem Extension](https://github.com/fiboa/ai-ecosystem-extension) | Extension for properties needed for fiboa to interface with AI ecosystem |
+| [Flik Extension](https://github.com/fiboa/flik-extension) | The area identifier (FLIK) is a 16-digit key to clearly identify field blocks and other entities, used mostly in Germany. |
 | [Inspire Extension](https://github.com/fiboa/inspire-extension) | Extension to define INSPIRE-compliant fields |
 | [Tillage Extension](https://github.com/fiboa/tillage-extension) | Fiboa extension to describe tillage on a field |
 
-* **Last updated:** Apr 12 2024, 00:57 
-* **Count:** 3
+* **Last updated:** Apr 12 2024, 10:50 
+* **Count:** 4
 
 ## Adding a new extension
 
@@ -43,22 +44,23 @@ Here's a guideline how to use the extension template:
    2. Ensure that the 'Source' is set to 'Deploy from a branch'.
    3. Ensure that the 'Branch' is set to 'gh-pages' and '/ (root)'.
    4. If you had to change anything, click 'Save'.
+   5. In the repository 'Settings' go to 'Actions' and then "General".
+   6. Ensure that the 'Workflow permissions' is set to 'Read and write permissions'.
+   7. If you had to change anything, click 'Save'.
 
 **Write your extension:**
 
+* Use [fiboa CLI to replace the template placeholders](https://github.com/fiboa/cli?tab=readme-ov-file#update-an-extension-template-with-new-names)
 * `README.md`:
-  * Update the title, identifier, property name prefix (must be unique), and owner (your GitHub handle).
-  Don't mess around with the formatting or structure as this will be used to generate the table above!
+  * Update the owner to be your GitHub handle.
   * Update the properties, select where they can be used, add documentation, etc. in the README.md
 * `schema/schema.yaml`:
   * Update the Schema accordingly to your changes in the README.md
     The Schema language is similar to JSON Schema, but has some specifics, especially the data types.
-    See [fiboa Schema / Validation](https://github.com/fiboa/specification/blob/main/core/validation.md) for details.
+    See [fiboa Schema](https://github.com/fiboa/schema) for details.
 * `examples/` folder:
   * Add at least one GeoJSON example
   * Add a GeoParquet example. You can generate it from GeoJSON with the [fiboa CLI](https://github.com/fiboa/cli).
-* Go through the files and update everything that is still named 'template' (or 'extension-template').
-  The easiest way is to let an IDE/Editor search through all the files for 'template'.
 * Run the tests
 * `CHANGELOG.md`: Update the Changelog
 * Let people discuss your extension, e.g. via chat, email, etc.
