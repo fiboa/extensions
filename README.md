@@ -9,12 +9,11 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 | ----- | ----------- |
 | [Ai Ecosystem Extension](https://github.com/fiboa/ai-ecosystem-extension) | Extension for properties needed for fiboa to interface with AI ecosystem |
 | [Flik Extension](https://github.com/fiboa/flik-extension) | The area identifier (FLIK) is a 16-digit key to clearly identify field blocks and other entities, used mostly in Germany. |
-| [Future Extension](https://github.com/fiboa/future-extension) | Provides information about the intended future use of a fields. |
 | [Inspire Extension](https://github.com/fiboa/inspire-extension) | Extension to define INSPIRE-compliant fields |
 | [Tillage Extension](https://github.com/fiboa/tillage-extension) | Fiboa extension to describe tillage on a field |
 
-* **Last updated:** Apr 27 2024, 17:42 
-* **Count:** 5
+* **Last updated:** Apr 28 2024, 01:02 
+* **Count:** 4
 
 ## Adding a new extension
 
