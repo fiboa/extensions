@@ -12,7 +12,7 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 | [Inspire Extension](https://github.com/fiboa/inspire-extension) | Extension to define INSPIRE-compliant fields |
 | [Tillage Extension](https://github.com/fiboa/tillage-extension) | Fiboa extension to describe tillage on a field |
 
-* **Last updated:** May 03 2024, 01:00 
+* **Last updated:** May 04 2024, 00:57 
 * **Count:** 4
 
 ## Adding a new extension
