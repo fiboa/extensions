@@ -11,9 +11,10 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 | [Flik Extension](https://github.com/fiboa/flik-extension) | The area identifier (FLIK) is a 16-digit key to clearly identify field blocks and other entities, used mostly in Germany. |
 | [Inspire Extension](https://github.com/fiboa/inspire-extension) | Extension to define INSPIRE-compliant fields |
 | [Tillage Extension](https://github.com/fiboa/tillage-extension) | Fiboa extension to describe tillage on a field |
+| [Timestamps Extension](https://github.com/fiboa/timestamps-extension) | Timestamps for the whole lifetime of field boundaries. |
 
-* **Last updated:** Jun 26 2024, 01:02 
-* **Count:** 4
+* **Last updated:** Jun 27 2024, 01:02 
+* **Count:** 5
 
 ## Adding a new extension
 
