@@ -22,7 +22,8 @@ Everyone is welcome to create and propose new extensions.
 We created a template for it to give you a starting point, which includes
 CI actions, templates for Markdown, Schema, and examples.
 
-Here's a guideline how to use the extension template:
+Here's a guideline how to use the extension template (and see 
+[the tutorial](https://github.com/fiboa/tutorials/blob/main/create-extension/README.md) for more detail):
 
 ### Create the repository
 
