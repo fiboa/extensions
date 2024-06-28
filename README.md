@@ -13,7 +13,7 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 | [Tillage Extension](https://github.com/fiboa/tillage-extension) | Fiboa extension to describe tillage on a field |
 | [Timestamps Extension](https://github.com/fiboa/timestamps-extension) | Timestamps for the whole lifetime of field boundaries. |
 
-* **Last updated:** Jun 28 2024, 01:02 
+* **Last updated:** Jun 28 2024, 21:25 
 * **Count:** 5
 
 ## Adding a new extension
@@ -22,8 +22,7 @@ Everyone is welcome to create and propose new extensions.
 We created a template for it to give you a starting point, which includes
 CI actions, templates for Markdown, Schema, and examples.
 
-Here's a guideline how to use the extension template (and see 
-[the tutorial](https://github.com/fiboa/tutorials/blob/main/create-extension/README.md) for more detail):
+Here's a guideline how to use the extension template:
 
 ### Create the repository
 
