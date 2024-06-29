@@ -9,12 +9,13 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 | ----- | ----------- |
 | [Ai Ecosystem Extension](https://github.com/fiboa/ai-ecosystem-extension) | Extension for properties needed for fiboa to interface with AI ecosystem |
 | [Flik Extension](https://github.com/fiboa/flik-extension) | The area identifier (FLIK) is a 16-digit key to clearly identify field blocks and other entities, used mostly in Germany. |
+| [Hcat Extension](https://github.com/fiboa/hcat-extension) | This Fiboa extension enables validation against the Hierarchical Crop and Agriculture Taxonomy (HCAT), which harmonizes all declared crops across the European Union.  |
 | [Inspire Extension](https://github.com/fiboa/inspire-extension) | Extension to define INSPIRE-compliant fields |
 | [Tillage Extension](https://github.com/fiboa/tillage-extension) | Fiboa extension to describe tillage on a field |
 | [Timestamps Extension](https://github.com/fiboa/timestamps-extension) | Timestamps for the whole lifetime of field boundaries. |
 
-* **Last updated:** Jun 28 2024, 21:25 
-* **Count:** 5
+* **Last updated:** Jun 29 2024, 01:01 
+* **Count:** 6
 
 ## Adding a new extension
 
