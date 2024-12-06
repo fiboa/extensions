@@ -7,6 +7,7 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 
 | Title | Description |
 | ----- | ----------- |
+| [Administrative Division Extension](https://github.com/fiboa/administrative-division-extension) | Administrative division on country and subdivion level based on ISO-3166 |
 | [Ai Ecosystem Extension](https://github.com/fiboa/ai-ecosystem-extension) | Extension for properties needed for fiboa to interface with AI ecosystem |
 | [Crop Extension](https://github.com/fiboa/crop-extension) | Identify crop codes and crop names from a custom codelist |
 | [Flik Extension](https://github.com/fiboa/flik-extension) | The area identifier (FLIK) is a 16-digit key to clearly identify field blocks and other entities, used mostly in Germany. |
@@ -15,8 +16,8 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 | [Tillage Extension](https://github.com/fiboa/tillage-extension) | Fiboa extension to describe tillage on a field |
 | [Timestamps Extension](https://github.com/fiboa/timestamps-extension) | Timestamps for the whole lifetime of field boundaries. |
 
-* **Last updated:** Dec 05 2024, 01:20 
-* **Count:** 7
+* **Last updated:** Dec 06 2024, 01:19 
+* **Count:** 8
 
 ## Adding a new extension
 
