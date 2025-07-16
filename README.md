@@ -15,7 +15,7 @@ and also guides you how to [create your own extension](#adding-a-new-extension).
 | [Tillage Extension](https://github.com/fiboa/tillage-extension) | Fiboa extension to describe tillage on a field |
 | [Timestamps Extension](https://github.com/fiboa/timestamps-extension) | Timestamps for the whole lifetime of field boundaries. |
 
-* **Last updated:** Jul 15 2025, 01:44 
+* **Last updated:** Jul 16 2025, 01:40 
 * **Count:** 7
 
 ## Adding a new extension
